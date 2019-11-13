@@ -96,12 +96,13 @@ footer {
     }
 
     footer {
-        background: #000000;
+        display: none;
+        /* background: #000000;
         color: #ffffff;
         position:fixed;
         left:0px;
         bottom:0px;
         height:30px;
-        width:100%;
+        width:100%; */
      }
 }
