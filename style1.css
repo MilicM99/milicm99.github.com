@@ -123,6 +123,10 @@ td, th {
         border-bottom: solid #fff 2px;
     }
 
+    nav > a >img{
+        display: none;
+    }
+
     h2{
         width: 100%;
         align-self: center;
